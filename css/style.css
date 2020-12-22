@@ -1,0 +1,12 @@
+.myBg {
+    background-color: darkturquoise;
+}
+
+#slideshow {
+    height: 578px;
+    object-fit: cover;
+}
+
+.param {
+    color: aqua;
+}
