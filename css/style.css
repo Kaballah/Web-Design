@@ -1,5 +1,6 @@
 .myBg {
     background-color: darkturquoise;
+    background-attachment: fixed;
 }
 
 #slideshow {
@@ -27,4 +28,19 @@
     text-align: justify;
     margin: 20px;
     font-size: 18px;
+}
+
+.quote {
+    height: 400px;
+    background-image: url(../images/quote.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color: rgb(0, 255, 13);
+    text-align: center;
+    text-transform: capitalize;
+    /* margin: 50px; */
+    padding: 10%;
+    animation: ease-in-out;
+    animation-duration: 0.5s;
+    animation-delay: 1s;
 }
