@@ -44,3 +44,12 @@
     animation-duration: 0.5s;
     animation-delay: 1s;
 }
+
+/* .mainport {
+    margin: 10px;
+} */
+
+.port {
+    margin: 10px;
+    /* padding: 20px; */
+}
